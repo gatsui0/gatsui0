@@ -3,8 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancardoso@alunos.utfpr.edu.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-christopher-cardoso-7118a5215/)
 
-![](https://github-readme-stats.vercel.app/api?username=gatsui0&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatsui0&show_icons=true&theme=radical)
 ### Tecnologias que estou utilizando no meu dia-dia
 
 
