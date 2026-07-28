@@ -1,7 +1,16 @@
 ### Fala aí, pessoal! 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancardoso@alunos.utfpr.edu.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-christopher-cardoso-7118a5215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanchristopherdev/)
+
+---
+
+### 🏛️ Especialidades e Arquitetura
+
+- **Sistemas Embarcados & Android:** Desenvolvedor focado em firmware, camadas de integração low-level (Android/Java, C++) e comunicação via portas seriais.
+- **Criptografia & Meios de Pagamento:** Experiência prática na implementação e validação de padrões de segurança e chaves (DUKPT, KCV, NIST SP 800-108, PKI e comunicação segura para terminais POS).
+- **Arquitetura de Software:** Aplicação rigorosa de **Arquitetura Hexagonal (Ports & Adapters)**, **Domain-Driven Design (DDD)**, padrões **POSA** e princípios **SOLID** para garantir isolamento de domínio e código escalável.
+- **DevOps & Containers:** Ambientes virtualizados e automatizados utilizando Docker, Docker Compose, WSL e pipelines de CI/CD (GitLab CI / SonarQube).
 
 ---
 
@@ -16,3 +25,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gatsui0&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatsui0&layout=compact&theme=radical" alt="Linguagens mais utilizadas" />
+</p>
