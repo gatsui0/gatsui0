@@ -18,9 +18,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gatsui0&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
